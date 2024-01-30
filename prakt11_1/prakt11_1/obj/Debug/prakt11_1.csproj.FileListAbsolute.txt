@@ -1,0 +1,10 @@
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\obj\Debug\prakt11_1.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\obj\Debug\prakt11_1.Student_work.resources
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\obj\Debug\prakt11_1.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\obj\Debug\prakt11_1.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\obj\Debug\prakt11_1.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\bin\Debug\prakt11_1.exe.config
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\bin\Debug\prakt11_1.exe
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\bin\Debug\prakt11_1.pdb
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\obj\Debug\prakt11_1.exe
+C:\Users\HUAWEI\Desktop\prakt11_1\prakt11_1\obj\Debug\prakt11_1.pdb
